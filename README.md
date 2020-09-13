@@ -1,16 +1,18 @@
-### Hi there 👋
+### Sup dawg 😎
+ * I'm Elb1to, the big nigga who founded and makes magic happen for [@FrozedClubDevelopment](https://github.com/FrozedClubDevelopment).
+   * Business Inquiries: **elb1to@frozed.club**
+     * FrozedClubDevelopment Support: **support@frozed.club**
 
-<!--
-**Elb1to/Elb1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/Elb1to">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elb1to&show_icons=true&count_private=true&bg_color=45,000000,161ba7,00add0&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/Elb1to">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elb1to&layout=compact&bg_color=-45,00add0,161ba7,000000&title_color=fff&text_color=fff" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.mc-market.org/members/230758/">
+  <img align="right" alt="FrozedClubDevelopment MC-Market" width="22px" src="https://www.svgrepo.com/show/112470/online-market.svg" />
+</a>
+<a href="https://twitter.com/Elb1to">
+  <img align="right" alt="My Twitter!" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
