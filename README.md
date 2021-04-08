@@ -1,7 +1,8 @@
 ### Sup dawg 😎
- * I'm Elb1to, the big nigga who founded and makes magic happen for [@FrozedClubDevelopment](https://github.com/FrozedClubDevelopment).
+ * I'm Elb1to, I founded and make magic happen for [@FrozedClubDevelopment](https://github.com/FrozedClubDevelopment).
    * Business Inquiries: **elb1to@frozed.club**
      * FrozedClubDevelopment Support: **support@frozed.club**
+     * FrozedClubDevelopment Store: https://store.frozed.club
 
 <a href="https://github.com/Elb1to">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elb1to&show_icons=true&count_private=true&bg_color=45,000000,161ba7,00add0&title_color=fff&text_color=fff" />
