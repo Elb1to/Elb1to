@@ -1,9 +1,6 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -12,21 +9,16 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: Elb1to
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories
           config_padding: 0, 10%
           config_timezone: America/Panama
-          plugin_achievements: yes
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: X
-          plugin_people: yes
-          plugin_people_limit: 32
-          plugin_people_size: 32
-          plugin_people_types: followers, following
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          plugin_lines: yes
+          plugin_wakatime: yes
+          plugin_wakatime_days: 30
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, languages, editors
+          plugin_wakatime_url: https://wakatime.com/@79cbd4c4-eaa6-4188-a8bd-dbd4d32499a7
+          plugin_wakatime_user: current
