@@ -9,4 +9,4 @@
 - 📫 Business inquiries: elb1to@frozed.club
 - 💬 You can contact me quicker via [Discord](https://discord.frozed.club)
 
-![Metrics](https://metrics.lecoq.io/Elb1to?template=classic&base.header=0&base.metadata=0&lines=1&config.timezone=America%2FPanama&config.padding=0%2C%2010%25)
+![Metrics](https://metrics.lecoq.io/Elb1to?template=classic&base.header=0&base.metadata=0&config.timezone=America%2FPanama&config.padding=0%2C%2010%25)
