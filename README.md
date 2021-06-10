@@ -1,12 +1,7 @@
 ### Sup dawg 😎
  * I'm Elb1to, I founded and make magic happen for [@FrozedClubDevelopment](https://github.com/FrozedClubDevelopment).
-   * Business Inquiries: **elb1to@frozed.club**
-     * FrozedClubDevelopment Support: **support@frozed.club**
-     * FrozedClubDevelopment Store: https://store.frozed.club
+ * Business Inquiries: **elb1to@frozed.club**
+ * FrozedClubDevelopment Support: **support@frozed.club**
+ * FrozedClubDevelopment Store: https://store.frozed.club
 
-<a href="https://github.com/Elb1to">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elb1to&show_icons=true&count_private=true&bg_color=45,000000,161ba7,00add0&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/Elb1to">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elb1to&layout=compact&bg_color=-45,00add0,161ba7,000000&title_color=fff&text_color=fff" />
-</a>
+![Metrics](https://metrics.lecoq.io/Elb1to?template=classic&achievements=1&projects=1&people=1&people.limit=32&people.size=32&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&projects.limit=4&projects.descriptions=false&achievements.threshold=X&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FPanama&config.padding=0%2C%2010%25)
