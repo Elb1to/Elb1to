@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently own at **Frozed Club Development**
+- 🏢 I'm currently own **Frozed Club Development**
 - ⚙️ I'm constantly grinding for Frozed Club
 - 📫 Business inquiries: elb1to@frozed.club
 - 💬 You can contact me quicker via [Discord](https://discord.frozed.club)
