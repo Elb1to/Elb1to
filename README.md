@@ -1,7 +1,7 @@
 ### Wassup 👋
 
+![](https://komarev.com/ghpvc/?username=Elb1to&style=plastic)
 #### I'm Elb1to and I founded & make magic happen for [@FrozedClubDevelopment](https://github.com/FrozedClubDevelopment).
-![](https://komarev.com/ghpvc/?Elb1to)
 
 ##### BIO
 
