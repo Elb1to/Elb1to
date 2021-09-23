@@ -1,11 +1,11 @@
 ### Wassup 👋
 
 ![](https://komarev.com/ghpvc/?username=Elb1to&style=plastic)
-#### I'm Elb1to and I founded & make magic happen for [@FrozedClubDevelopment](https://github.com/FrozedClubDevelopment).
+#### I'm Elb1to, I founded & make magic happen for [@FrozedClubDevelopment](https://github.com/FrozedClubDevelopment).
 
 ##### BIO
 
-- 🏢 I'm currently own **Frozed Club Development**
+- 🏢 I currently own **Frozed Club Development**
 - ⚙️ I'm constantly grinding for Frozed Club
 - 📫 Business inquiries: elb1to@frozed.club
 - 💬 You can contact me quicker via [Discord](https://discord.frozed.club)
