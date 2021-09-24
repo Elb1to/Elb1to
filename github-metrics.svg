@@ -1380,7 +1380,7 @@
                 <div class="row fill-width">
                     <section>
                         <div class="field error">
-            API returned 404
+            API returned undefined
           </div>
                     </section>
                 </div>
