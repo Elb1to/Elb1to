@@ -1512,7 +1512,7 @@
                 <div class="row fill-width">
                     <section>
                         <div class="field error">
-            API returned 502
+            API returned 404
           </div>
                     </section>
                 </div>
