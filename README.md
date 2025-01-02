@@ -9,6 +9,4 @@ Don't hesitate to get in touch for business inquiries.
 
 [![Languages and Tools](https://skillicons.dev/icons?i=java,kotlin,c,php,html,css,net,redis,mongo,mysql,maven,idea,ps)](https://skillicons.dev)
 
-![Metrics](https://metrics.lecoq.io/Elb1to?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FPanama&config.padding=0%2C%2015%25)
-
-![](https://hit.yhype.me/github/profile?user_id=50537641)
+![](https://hit.yhype.me/github/profile?account_id=50537641)
