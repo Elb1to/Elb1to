@@ -8,3 +8,5 @@ Don't hesitate to get in touch for business inquiries.
 - :email: Email: elb1to@frozed.club
 
 [![Languages and Tools](https://skillicons.dev/icons?i=java,kotlin,c,php,html,css,net,redis,mongo,mysql,maven,idea,ps)](https://skillicons.dev)
+
+![](https://hit.yhype.me/github/profile?account_id=50537641)
